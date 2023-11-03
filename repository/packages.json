@@ -1,0 +1,35 @@
+{
+  "packages": [{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Z-Uno",
+    "type": "library",
+    "identifier": "com.github.samuelkadolph.zuno-kicad",
+    "license": "MIT",
+    "description": "Symbols and footprints for Z-Uno 1 and Z-Uno 2",
+    "description_full": "Z-Uno is the first and only easy-to-use developer board that allows you to create your own Z-Wave device without deep knowledge of Z-Wave protocol or programming. Z-Uno is a mix of Z-Wave home automation radio protocol power and Arduino simplicity. Being inspired by the Arduino project Z-Uno inherits all concepts of easy-to-use hardware and software solutions, keeping maximum flexibility.",
+    "tags": ["z-uno", "z-wave", "zuno", "zwave"],
+    "author": {
+      "name": "Samuel Kadolph",
+      "contact": {
+        "github": "https://github.com/samuelkadolph",
+        "web": "https://samuel.kadolph.com/"
+      }
+    },
+    "resources": {
+      "github": "https://github.com/samuelkadolph/zuno-kicad",
+      "datasheet": "https://z-uno.z-wave.me/technical",
+      "web": "https://z-uno.z-wave.me/"
+    },
+    "versions": [
+      {
+        "download_sha256": "8b2dd537107a423d5e941e998c4c7cdb5922e271d58734524f5a35bf9413b415",
+        "download_size": 7357,
+        "download_url": "https://github.com/samuelkadolph/zuno-kicad/releases/download/v0.1.0/Z-Uno_KiCAD_v0.1.0.zip",
+        "install_size": 22829,
+        "kicad_version": "7",
+        "status": "development",
+        "version": "0.1.0"
+      }
+    ]
+  }]
+}

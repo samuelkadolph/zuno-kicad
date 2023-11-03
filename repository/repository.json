@@ -1,0 +1,22 @@
+{
+  "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+  "maintainer": {
+    "name": "Samuel Kadolph",
+    "contact": {
+      "github": "https://github.com/samuelkadolph/zuno-kicad"
+    }
+  },
+  "name": "Z-Uno Unofficial Repository",
+  "packages": {
+    "sha256": "bf26a3778b131d9aa372f44be8c62bd367fa75757da021a74a23dbcc849ef540",
+    "update_time_utc": "2023-11-03 20:05:15",
+    "update_timestamp": 1699041915,
+    "url": "https://github.com/samuelkadolph/zuno-kicad/raw/main/repository/packages.json"
+  },
+  "resources": {
+    "sha256": "fa1e7ee75f429ca3137d7b05300809619b99d7745a2e4e071b5c4782fbaef01f",
+    "update_time_utc": "2023-11-03 20:05:15",
+    "update_timestamp": 1699041915,
+    "url": "https://github.com/samuelkadolph/zuno-kicad/raw/main/repository/resources.zip"
+  }
+}
