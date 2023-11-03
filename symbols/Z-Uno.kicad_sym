@@ -10,7 +10,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://z-uno.z-wave.me/technical/" (at 0 30.48 0)
-      (effects (font (size 1.27 1.27)))
+      (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "z-uno zuno zwave" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
