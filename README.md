@@ -6,8 +6,8 @@
 
 ### From file
 
-Download the version you want from the [Releases](releases) page or the
-[latest](releases/download/v0.1.0/Z-Uno_KiCAD_v0.1.0.zip).
+Download the version you want from the [Releases](../../releases) page or the
+[latest](../../releases/download/v0.1.0/Z-Uno_KiCAD_v0.1.0.zip).
 
 In KiCAD, open the `Plugin and Content Manager` window and click `Install from file...`.
 
