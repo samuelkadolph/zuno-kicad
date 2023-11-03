@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Dev_Z-Uno")(type "KiCad")(uri "${KIPRJMOD}/../footprints/Z-Uno.pretty")(options "")(descr ""))
+)

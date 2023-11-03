@@ -1,2 +1,4 @@
-build/
 *.bak
+build/
+dev/dev-backups
+dev/fp-info-cache
