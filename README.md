@@ -19,7 +19,7 @@ Select the zip file you downloaded and click `Open`.
 
 The plugin should now show up under the `Installed` tab.
 
-[![List of installed plugins](images/installed.png "Installed Plugin")](images/installed.png)
+[![List of installed plugins](images/installed.png "Installed Plugins")](images/installed.png)
 
 ## Build from source
 
