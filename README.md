@@ -31,3 +31,11 @@ This create a zip file in the build directory. With that zip file you can follow
 the [instructions above for installing from a file](#from-file).
 
 ## Repository
+
+To add a release to the repository:
+
+* Tag release and push to GitHub
+* Add release on GitHub and upload zip
+* Add release to packages.yaml
+* Run `rake repository`
+* Commit and push to GitHub
