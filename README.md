@@ -2,7 +2,24 @@
 
 ## Installation
 
+You can either install by adding a repository or directly with the zip file.
+Using the repository makes it easier to get updates.
+
 ### From repository
+
+In KiCAD, open the `Plugin and Content Manager` window and click `Manage...`.
+
+[![Click on Manage](images/manage_repositories.png "Manage Libraries")](images/manage_repositories.png)
+
+Click `+` and use the following URL: `https://github.com/samuelkadolph/zuno-kicad/raw/main/repository/repository.json`.
+
+[![Click on the plus to add a repository](images/add_repository.png "Add Repository")](images/add_repository.png)
+
+Once the repository is added, you can click the drop down to select
+`Z-Uno Unoffical Repository`. Then you select the `Libraries` tab. The `Z-Uno`
+library show now show up. Click on `Install` and `Apply Pending Changes`.
+
+[![Install the Z-Uno library](images/repository_libraries.png "Repository Libraries")](images/repository_libraries.png)
 
 ### From file
 
@@ -11,7 +28,7 @@ Download the version you want from the [Releases](../../releases) page or the
 
 In KiCAD, open the `Plugin and Content Manager` window and click `Install from file...`.
 
-[![Click on install from file...](images/install_from_file.png "Plugin and Content Manager")](images/install_from_file.png)
+[![Click on install from file](images/install_from_file.png "Plugin and Content Manager")](images/install_from_file.png)
 
 Select the zip file you downloaded and click `Open`.
 
