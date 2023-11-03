@@ -1,0 +1,8 @@
+versions:
+- download_sha256: 8b2dd537107a423d5e941e998c4c7cdb5922e271d58734524f5a35bf9413b415
+  download_size: 7357
+  download_url: https://github.com/samuelkadolph/zuno-kicad/releases/download/v0.1.0/Z-Uno_KiCAD_v0.1.0.zip
+  install_size: 22829
+  kicad_version: 7
+  status: development
+  version: 0.1.0

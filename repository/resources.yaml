@@ -1,0 +1,2 @@
+- file: "{{ NAMESPACE }}/icon.png"
+  source: resources/icon.png
