@@ -1,5 +1,5 @@
 NAMESPACE = "com.github.samuelkadolph.zuno-kicad"
-VERSION = "0.1.1"
+VERSION = "0.1.2"
 
 METADATA = {
   "$schema" => "https://go.kicad.org/pcm/schemas/v1",
