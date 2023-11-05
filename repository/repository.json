@@ -9,14 +9,14 @@
   "name": "Z-Uno Unofficial Repository",
   "packages": {
     "url": "https://github.com/samuelkadolph/zuno-kicad/raw/main/repository/packages.json",
-    "sha256": "dc8ceb859257d68f73decdb6f1c5982c414c76ffaa81c6ef3ebfaa74555d3c0f",
-    "update_time_utc": "2023-11-05 01:09:50",
-    "update_timestamp": 1699146590
+    "sha256": "3d11495a817d44cb2fe5140d53d7bbf36ca420cc0302fd1442e5f2a30486dd78",
+    "update_time_utc": "2023-11-05 04:07:24",
+    "update_timestamp": 1699157244
   },
   "resources": {
     "url": "https://github.com/samuelkadolph/zuno-kicad/raw/main/repository/resources.zip",
     "sha256": "f56d9faf4f306f58f795e7ce3eb4deb2a1710752fa3ffa3afe87ad9d2b61b5aa",
-    "update_time_utc": "2023-11-05 01:09:50",
-    "update_timestamp": 1699146590
+    "update_time_utc": "2023-11-05 04:07:24",
+    "update_timestamp": 1699157244
   }
 }
