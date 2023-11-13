@@ -4,7 +4,7 @@
   (tags "z-uno z-wave zuno zwave")
   (attr through_hole)
   (fp_text reference "REF**" (at 8.89 -2.794 unlocked) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.1)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e95b1b48-f80f-4acd-b0c8-ddd155794af1)
   )
   (fp_text value "DIP-30_W17.78mm" (at 8.89 40.005 unlocked) (layer "F.Fab")
